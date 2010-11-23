@@ -1,0 +1,10 @@
+This plugin checks for brazilian alphanumeric patterns:
+- Inscrição Estadual
+- CEI: Cadastro Específico INSS
+- CEP: Código de Endereçamento Postal
+- CPF: Cadastro de Pessoa Física
+- CNPJ: Cadastro Nacional de Pessoa Jurídica
+- Data dd/mm/yyyy
+- Números inteiros
+- Números com casas decimais
+- Telefone
